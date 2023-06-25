@@ -1,0 +1,67 @@
+export const pokemons = [ 
+  {
+    id: 1,
+    name: 'Pika',
+    stars: 5,
+    image: 'http://localhost:3000/images/pika.png',
+    price: 150,
+    currency: 'USD',
+  },
+  {
+    id: 2,
+    name: 'Bulba',
+    stars: 3,
+    image: 'http://localhost:3000/images/bulba.png',
+    price: 150,
+    currency: 'USD',
+  },
+  {
+    id: 3,
+    name: 'Squirl',
+    stars: 4,
+    image: 'http://localhost:3000/images/squirl.png',
+    price: 150,
+    currency: 'USD',
+  },
+  {
+    id: 4,
+    name: 'Psyduck',
+    stars: 3,
+    image: 'http://localhost:3000/images/psyduck.png',
+    price: 150,
+    currency: 'USD',
+  },
+  {
+    id: 5,
+    name: 'Raichu',
+    stars: 4,
+    image: 'http://localhost:3000/images/raichu.png',
+    price: 150,
+    currency: 'USD',
+  },
+  {
+    id: 6,
+    name: 'Togepii',
+    stars: 3,
+    image: 'http://localhost:3000/images/togepii.png',
+    price: 150,
+    currency: 'USD',
+  },
+  {
+    id: 7,
+    name: 'Char',
+    stars: 5,
+    image: 'http://localhost:3000/images/char.png',
+    price: 150,
+    currency: 'USD',
+  },
+  {
+    id: 8,
+    name: 'Jiggl',
+    stars: 1,
+    image: 'http://localhost:3000/images/jiggl.png',
+    price: 150,
+    currency: 'USD',
+  }];
+
+  // export default pokemons;
