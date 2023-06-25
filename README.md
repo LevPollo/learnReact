@@ -6,3 +6,5 @@
 # links for check 
 / - mine
 /1 - pokemon id
+
+много конфликтов еслинт, npm install --force
