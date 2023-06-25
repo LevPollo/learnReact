@@ -1,6 +1,6 @@
 ## application launch: 
 1) node server.js
-2) nvm run dev
+2) npm run dev
 
 
 # links for check 
